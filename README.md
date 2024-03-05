@@ -42,7 +42,7 @@ npx hardhat run scripts/approveDeposit.js --network goerli
 
 ## Author
 
-[Gbadamosi Samad Gbolahan](https://github.com/Samadg0)
+[Agbaje Tobi Emmanuel](https://github.com/Tobiagbaje)
 
 ## License
 
